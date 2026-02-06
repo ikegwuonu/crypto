@@ -30,7 +30,7 @@ const Home = () => {
     <div className='Home'>
         <div className="hero">
             <h1>Largest <br />Crypto Marketplace</h1>
-            <p>CG-GaUFLLuC1QJmwKbzWHVZXJ58</p>
+            
             <p>Welcome to the world's laargest cryptocurrency marketplace. <br />Signup to xplore more about crypto
 
             </p>
